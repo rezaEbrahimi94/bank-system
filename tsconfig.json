@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "module": "CommonJS",
+    "strict": true,
+    "outDir": "dist",
+    "esModuleInterop": true,
+    "lib": ["ES2017", "ESNext.AsyncIterable"]
+  },
+  "include": ["src/**/*"]
+}
